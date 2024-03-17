@@ -22,4 +22,8 @@ ketika file seedRandomNumber.c sudah dijalankan, selanjutnya menjalankan file 22
 # My function
 Funsi yang saya gunakan di file seedRandomNumber.c hanya fungsi main dan fungsi seedRandomNumber, yang dimana fungsi seedRandomNumber berguna untuk menghasilkan nilai acak dan memasukkannya ke sebuah array, nilai acak yang dihasilkan pasti akan berbeda dan tidak ada yang sama, lalu fungsi main berguna untuk menjalankan program, memanggil fungsi seedRandomNumber, dan menuliskan angka acak yang sudah disimpan di array ke dalam sebuah file txt.
 
-Fungsi yang saya gunakan di file 2208107010028_Simple_sorting.c hanya fungsi main, isi dari fungsi main yaitu, membuka file yang diperlukan, membaca file untuk memasukkan data random ke array untuk di sorting, dan mencatat waktu setiap sorting yang dilakukan
+Fungsi yang saya gunakan di file 2208107010028_Simple_sorting.c hanya fungsi main, isi dari fungsi main yaitu, membuka file yang diperlukan, membaca 
+file untuk memasukkan data random ke array untuk di sorting, dan mencatat waktu setiap sorting yang dilakukan
+
+# Link Vidio
+> https://drive.google.com/file/d/12YnnrAlRBz3KXvXYIlQiLgzSz5zJEeRX/view?usp=sharing
