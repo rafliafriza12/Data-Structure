@@ -1,0 +1,32 @@
+Waktu eksekusi bubblesort (jlh data: 100000): 21.955981 detik
+Waktu eksekusi bubblesort (jlh data: 200000): 88.652425 detik
+Waktu eksekusi bubblesort (jlh data: 300000): 201.389944 detik
+Waktu eksekusi bubblesort (jlh data: 400000): 358.515301 detik
+Waktu eksekusi bubblesort (jlh data: 500000): 562.054987 detik
+Waktu eksekusi bubblesort (jlh data: 600000): 810.361886 detik
+Waktu eksekusi bubblesort (jlh data: 700000): 1100.602249 detik
+Waktu eksekusi bubblesort (jlh data: 800000): 1438.947945 detik
+Waktu eksekusi bubblesort (jlh data: 900000): 1829.161973 detik
+Waktu eksekusi bubblesort (jlh data: 1000000): 2250.563217 detik
+
+Waktu eksekusi selection sort (jlh data: 100000): 9.977618 detik
+Waktu eksekusi selection sort (jlh data: 200000): 39.647111 detik
+Waktu eksekusi selection sort (jlh data: 300000): 89.374102 detik
+Waktu eksekusi selection sort (jlh data: 400000): 158.599139 detik
+Waktu eksekusi selection sort (jlh data: 500000): 248.942025 detik
+Waktu eksekusi selection sort (jlh data: 600000): 364.250860 detik
+Waktu eksekusi selection sort (jlh data: 700000): 498.056152 detik
+Waktu eksekusi selection sort (jlh data: 800000): 636.957245 detik
+Waktu eksekusi selection sort (jlh data: 900000): 805.318646 detik
+Waktu eksekusi selection sort (jlh data: 1000000): 997.901604 detik
+
+Waktu eksekusi insertion sort (jlh data: 100000): 4.596924 detik
+Waktu eksekusi insertion sort (jlh data: 200000): 19.166408 detik
+Waktu eksekusi insertion sort (jlh data: 300000): 42.975334 detik
+Waktu eksekusi insertion sort (jlh data: 400000): 79.278317 detik
+Waktu eksekusi insertion sort (jlh data: 500000): 126.114949 detik
+Waktu eksekusi insertion sort (jlh data: 600000): 185.959622 detik
+Waktu eksekusi insertion sort (jlh data: 700000): 246.480218 detik
+Waktu eksekusi insertion sort (jlh data: 800000): 327.146509 detik
+Waktu eksekusi insertion sort (jlh data: 900000): 417.054687 detik
+Waktu eksekusi insertion sort (jlh data: 1000000): 515.606017 detik
