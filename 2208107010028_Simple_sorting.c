@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     FILE *fp;
     FILE *sorting;
     FILE *sortTime;
-    int arr[SIZE];
+    int * arr = malloc(sizeof(int) * SIZE);
     int batas = 100000;
     sortTime = fopen("waktu_sorting.txt", "w");
     sorting = fopen("data_sorting.txt", "w");
@@ -148,5 +148,6 @@ int main(int argc, char *argv[])
     fclose(fp);
     fclose(sorting);
     fclose(sortTime);
+    free(arr);
     return 0;
 }

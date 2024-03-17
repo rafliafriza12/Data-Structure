@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
         exit(0);
     }
 
-    int data[SIZE];
+    int * data = malloc(sizeof(int) * SIZE);
 
     seedRandomNumber(data, SIZE);
 
